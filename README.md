@@ -94,6 +94,6 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:8081) in your browser to view the project.
+Open [http://localhost:8081](http://localhost:8081) in your browser to view the project.
 
 #
